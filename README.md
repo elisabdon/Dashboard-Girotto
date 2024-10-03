@@ -1,5 +1,6 @@
-##Dashboard Social Midia
-    ✨Dashboard✨  - Interface avaliativa em phyton para Probabilidade e Estatistica
+## Dashboard Social Midia
+
+✨Dashboard✨  - Interface avaliativa em phyton para Probabilidade e Estatistica
 
 <p align="center">
   <img src="https://i.gifer.com/7LIV.gif" alt="GIF">
